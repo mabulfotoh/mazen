@@ -1,0 +1,145 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+padding: 1px;
+text-align: center;
+font-family: El Messiri;
+font-size: 18px;
+color: white;
+background-color: brown;
+
+}
+
+.nav {
+  padding: 5px;
+  background-color: black;
+  text-align: center;
+
+
+}
+
+.nav a {
+  padding: 60px;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+  font-family: El Messiri
+
+
+}
+main {
+  margin: 10px;
+  font-family: Amiri
+
+}
+
+}
+.post{
+
+}
+
+.post h2 {
+  text-align: center;
+}
+.post p {
+  padding: 5px;
+  font-size: 20px;
+}
+
+#post1{
+  float:right;
+  border-width: medium;
+  border-color: gray;
+  border-style: solid;
+  border-bottom: none;
+  margin-top: 10px;
+  height: 290;
+  width: 100%
+
+}
+#post2{
+  float:right;
+  border-width: medium;
+  border-color: gray;
+  border-style: solid;
+  border-bottom: none;
+  margin-top: 10px;
+  height: 290;
+  width: 100%
+
+}
+#post3{
+  float:right;
+  border-width: medium;
+  border-color: gray;
+  border-style: solid;
+  border-bottom: none;
+  margin-top: 10px;
+  height: 290;
+  width: 100%
+
+}
+
+table {
+  width: 100%;
+}
+
+td {
+padding-right: 10px;
+padding-right: 10px;
+}
+
+.more {
+  font-size: 20px;
+  text-align: center;
+  float:right;
+  border-width: medium;
+  border-color: gray;
+  border-style: solid;
+  border-top: none;
+  margin-top: -5px;
+  width: 100%;
+}
+
+.more a {
+  text-decoration: none;
+  color:white;
+ background-color: black;
+ padding: 5px 15px 5px 15px;
+ border-radius: 10px;
+
+}
+
+.me table {
+  border: 1px solid black;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  border-style: double;
+
+
+}
+.me td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  font-size: 25px;
+  border-style:
+
+}
+.me tr {
+  border: 1px solid black;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  border-style: double;
+
+}
